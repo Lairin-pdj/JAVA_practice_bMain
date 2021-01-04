@@ -1,3 +1,9 @@
+//
+// JAVA
+// balance using main 
+// make by Park Dongjun
+//
+
 package com.company;
 
 import java.util.Scanner;
